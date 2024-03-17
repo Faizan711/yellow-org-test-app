@@ -1,0 +1,68 @@
+{
+  "..\\components\\ChartAndOrderBookWidget\\index.tsx -> @openware/neodax-web-sdk": {
+    "id": "..\\components\\ChartAndOrderBookWidget\\index.tsx -> @openware/neodax-web-sdk",
+    "files": []
+  },
+  "..\\node_modules\\@openware\\neodax-web-sdk\\index.esm.ts -> ./charting_library-e40d5c8f.js": {
+    "id": "..\\node_modules\\@openware\\neodax-web-sdk\\index.esm.ts -> ./charting_library-e40d5c8f.js",
+    "files": [
+      "static/chunks/node_modules_openware_neodax-web-sdk_charting_library-e40d5c8f_js.js"
+    ]
+  },
+  "..\\node_modules\\@openware\\neodax-web-sdk\\index.esm.ts -> ./index-788b8c9e.js": {
+    "id": "..\\node_modules\\@openware\\neodax-web-sdk\\index.esm.ts -> ./index-788b8c9e.js",
+    "files": [
+      "static/chunks/node_modules_openware_neodax-web-sdk_index-788b8c9e_js.js"
+    ]
+  },
+  "..\\node_modules\\@privy-io\\react-auth\\dist\\esm\\index.js -> @walletconnect/modal": {
+    "id": "..\\node_modules\\@privy-io\\react-auth\\dist\\esm\\index.js -> @walletconnect/modal",
+    "files": [
+      "static/chunks/node_modules_walletconnect_modal_dist_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal": {
+    "id": "..\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal",
+    "files": [
+      "static/chunks/node_modules_walletconnect_modal_dist_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@walletconnect\\modal\\dist\\index.js -> @walletconnect/modal-ui": {
+    "id": "..\\node_modules\\@walletconnect\\modal\\dist\\index.js -> @walletconnect/modal-ui",
+    "files": [
+      "static/chunks/node_modules_walletconnect_modal-ui_dist_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3modal\\ethers5\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal": {
+    "id": "..\\node_modules\\@web3modal\\ethers5\\node_modules\\@walletconnect\\ethereum-provider\\dist\\index.es.js -> @walletconnect/modal",
+    "files": [
+      "static/chunks/node_modules_walletconnect_modal_dist_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3modal\\scaffold\\dist\\esm\\src\\client.js -> ./modal/w3m-modal/index.js": {
+    "id": "..\\node_modules\\@web3modal\\scaffold\\dist\\esm\\src\\client.js -> ./modal/w3m-modal/index.js",
+    "files": []
+  },
+  "..\\node_modules\\@web3modal\\scaffold\\dist\\esm\\src\\client.js -> @web3modal/ui": {
+    "id": "..\\node_modules\\@web3modal\\scaffold\\dist\\esm\\src\\client.js -> @web3modal/ui",
+    "files": []
+  },
+  "..\\node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js": {
+    "id": "..\\node_modules\\viem\\_esm\\actions\\public\\call.js -> ../../utils/ccip.js",
+    "files": []
+  },
+  "..\\node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows": {
+    "id": "..\\node_modules\\viem\\_esm\\utils\\rpc\\webSocket.js -> isows",
+    "files": [
+      "static/chunks/node_modules_isows__esm_native_js.js"
+    ]
+  },
+  "..\\node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": "..\\node_modules\\viem\\_esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1",
+    "files": []
+  },
+  "settings\\index.tsx -> @openware/neodax-web-sdk": {
+    "id": "settings\\index.tsx -> @openware/neodax-web-sdk",
+    "files": []
+  }
+}

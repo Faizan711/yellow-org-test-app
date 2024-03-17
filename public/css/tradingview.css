@@ -1,0 +1,17 @@
+html.theme-dark .chart-page {
+    background-color: var(--main-background-color);
+}
+
+html.theme-light .chart-page {
+    background-color: var(--main-background-color);
+}
+
+html.theme-light .group-MBOVGQRI,
+html.theme-light .separatorWrap-MBOVGQRI {
+    background-color: transparent;
+}
+
+html.theme-dark .group-MBOVGQRI,
+html.theme-dark .separatorWrap-MBOVGQRI {
+    background-color: transparent;
+}

@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    /* WARNING: font styles based on rem */
+    font-size: 16px;
+    line-height: 24px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    height: 100%;
+    background-color: var(--app-body-background-color);
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+div.with-scrollbar::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+}
+
+div.with-scrollbar::-webkit-scrollbar-track {
+    border-radius: 10px;
+    margin-block-start: calc(max(var(--rounded-md), 44px));
+}
+
+div.with-scrollbar::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+div.with-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #777;
+}
+
+div.with-admin-scrollbar::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+}
+
+div.with-admin-scrollbar::-webkit-scrollbar-track {
+    border-radius: 10px;
+    margin-block-start: 44px;
+}
+
+div.with-admin-scrollbar::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+div.with-admin-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #777;
+}
+
+div.with-default-scrollbar::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+}
+
+div.with-default-scrollbar::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+div.with-default-scrollbar::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+div.with-default-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #777;
+}
+
+.font-variant-none {
+    font-variant: none;
+}
+
+.webkitBlur::before {
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
+.webkitBlur {
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
